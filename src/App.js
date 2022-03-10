@@ -21,3 +21,5 @@ function App() {
 }
 
 export default App;
+
+// ใน then ใช้แบบนี้นะ .then(()=>console.log('working...)) เพื่อให้มันทำงานทีหลัง
